@@ -1,2 +1,2 @@
 # udemy-zero-to-mastery-code-commented
-Commented files to assist people in going through this course. I found it difficult to follow some of the JS videos without some sort of commented code
+Initially just "123.Loops" video section commented. For and Do loop code can be a little confusing.  
